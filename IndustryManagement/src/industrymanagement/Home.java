@@ -373,7 +373,7 @@ public class Home extends javax.swing.JFrame {
 
     private void jbRegistraVendaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbRegistraVendaActionPerformed
         // TODO add your handling code here:
-        
+        //Salvar campos e colocar no BD
         
     }//GEN-LAST:event_jbRegistraVendaActionPerformed
 
